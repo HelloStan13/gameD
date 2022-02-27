@@ -4,14 +4,14 @@
 
 ## Tabla de contenido
 
-- [construido con](#construido-con).
+- [Construido con](#Construido-con).
 - [Principales características](#Principales-características).
 - [Instalación](#Instalación).
 - [Realizar solicitudes](#Realizar-solicitudes).
 - [Contacto](#Contacto).
 
 
-### construido con
+### Construido con
 Esta es la pila tecnológica con la que he trabajado:
 Node.js
 MongoDB
