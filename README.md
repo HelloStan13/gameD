@@ -4,7 +4,11 @@
 
 ## Tabla de contenido
 
-[construido con](#construido-con).
+- [construido con](#construido-con).
+- [Principales características](#Principales-características).
+- [Instalación](#Instalación).
+- [Realizar solicitudes](#Realizar-solicitudes).
+- [Contacto](#Contacto).
 
 
 ### construido con
@@ -23,9 +27,21 @@ Nodemon
 *Inicio de juego.
 *Fin de juego y ganador*
 
+### Instalación
+
+Para obtener una copia local en funcionamiento, siga estos sencillos pasos.
+
+Clonar el repositorio
+clon de git https://github.com/HelloStan13/gameD.git
+
+Instalar paquetes NPM
+instalar npm
+
+Ejecutar aplicación con: npm run dev
 
 
-### Cuerpo de la solicitud para realizar una solicitud:
+
+### Realizar solicitudes:
 Ingresar a cliente/test.http
 
 // Opción 1. Creación de jugadores
@@ -43,4 +59,5 @@ GET  http://localhost:8080/api/stargame
 //Opción 5. Fin de juego y ganador
 GET http://localhost:8080/api/finishGame
 
-
+### Contacto
+Adryan Ynfante --> adryanynfante@gmail.com
