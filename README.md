@@ -21,11 +21,11 @@ Nodemon
 
 
 ### Principales características
-*Creacion de jugadores.
-*Actualización de datos y apuesta para jugadores.
-*Eliminación de jugadores de forma lógica.
-*Inicio de juego.
-*Fin de juego y ganador*
+- Creacion de jugadores.
+- Actualización de datos y apuesta para jugadores.
+- Eliminación de jugadores de forma lógica.
+- Inicio de juego.
+- Fin de juego y ganador*
 
 ### Instalación
 
